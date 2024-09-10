@@ -40,7 +40,10 @@ favstats(alcohol~Seat,data=davisdata)
 The most an individual drank in a week from the back row was 55 drinks. We see the front seats had the least number of drinks in a week with an individual only of had 20 drinks. While the middle still had a low max of 35 in comparison with the back row, its evident that the middle and back rows are greater than the front row. If we look at the mean of the data between the rows, we can further qualify the fact that the back row has more drinkers than the front row and middle row with a mean of 9.6 arguably quite high while the front and middle rows had a mean of 1.80, and 3,28 respectivley. 
 
 ## Inferential Tests
-
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
 ## Conclusions
 
 
