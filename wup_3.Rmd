@@ -33,6 +33,11 @@ From observing the graph, we can see that the back row is more prone to drinking
 
 
 ## Numerical Summarys 
+```{r}
+favstats(alcohol~Seat,data=davisdata)
+```
+
+ 
 
 ## Inferential Tests
 
