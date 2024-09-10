@@ -26,6 +26,7 @@ davisdata <- read.csv(file="UCDavis.csv")
 boxplot(alcohol~Seat,data=davisdata)
 ```
 
+From observing the graph, we can see that the back row is more prone to drinking alcohol. However the middle seats have many outliers compared to the front and back seats even if their 50% range of data for alcohol drinkers is low. The front seat. has two outliers but the data stayed in a relativley similar range. 
   
 ### get fancy  
 
