@@ -56,5 +56,5 @@ The back is different from the middle and the front. The front and the middle ar
 
 ## Conclusions
 
-
+The data which was observed and tested today, shows that the probability of back seat drinkers is less than 1%. However in the data shown that back seat individuals have higher numbers of being drinkers than the front and middle seats. The outliers in the middle seats do not affect the substantial fact that the back seat data was different from both the front and middle. The front and middle did not deviate from each other as we saw in the toukey test. The confidence level of 0 crossed only the back seat. The front and middle seats traveled into negative territory.
 
